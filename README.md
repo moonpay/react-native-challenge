@@ -7,7 +7,7 @@
   </p>
 </div>
 
-# Take Home Test (Backend & Frontend)
+# Take Home Test (React Native)
 
 ## Overview
 
