@@ -57,6 +57,8 @@ return them as a link or email attachment in reply to your test invite. We'd lik
 code in your submission to remain private, so please avoid committing or pushing
 the code publicly.
 
+**Do not include node_modules or .git in your submission**
+
 Once we receive it, a member of our team will review and we'll get back to you
 as soon as possible.
 
