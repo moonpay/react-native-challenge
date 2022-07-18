@@ -35,6 +35,8 @@ For the mobile portion of the test, use the `/mobile` folder. There are 7 featur
 
 Feel free to structure the code however you prefer and use third-party libraries at your discretion.
 
+We are also interested to see how you would approach testing your code.
+
 Do not spend too much time on making it beautiful. Basic aesthetics are welcome, but we are not
 grading your design skills here.
 
